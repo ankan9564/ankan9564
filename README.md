@@ -1,4 +1,4 @@
-👋 Hi, I'm Ankan MOndal
+👋 Hi, I'm Ankan Mondal
 
 Java Backend Developer with strong hands-on experience in building RESTful APIs
 using Spring Boot and integrating secure authentication mechanisms.
@@ -13,10 +13,18 @@ Currently enhancing DevOps skills with Docker and CI/CD pipelines.
 - Linux basics
 
 📂 Featured Projects
-- User Authentication System (Spring Security + JWT)
-- Employee Management REST API
-- E-Commerce Backend (Microservice architecture)
-- CI/CD pipeline with Docker & GitHub Actions
+
+🛠️ Complaint Management System
+
+Spring Boot–based backend system for managing user complaints with role-based access, complaint tracking, and admin resolution workflow.
+
+🛒 E-Commerce Backend System
+
+Backend application for an e-commerce platform supporting product management, user handling, and order processing through RESTful APIs.
+
+📦 Inventory Management System
+
+RESTful inventory management API designed to manage stock levels with CRUD operations, validation, and centralized exception handling.
 
 📈 Currently Learning
 - Kubernetes
@@ -24,5 +32,5 @@ Currently enhancing DevOps skills with Docker and CI/CD pipelines.
 - System Design basics
 
 📫 Contact
-- LinkedIn: <your-link>
-- Email: <your-email>
+- LinkedIn: https://www.linkedin.com/in/ankan-mondal-7a2876313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: ankanmondal43@gmail.com
