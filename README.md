@@ -1,36 +1,58 @@
-👋 Hi, I'm Ankan Mondal
+# 👋 Hi, I'm Ankan Mondal
 
-Java Backend Developer with strong hands-on experience in building RESTful APIs
-using Spring Boot and integrating secure authentication mechanisms.
-Currently enhancing DevOps skills with Docker and CI/CD pipelines.
+Java Backend Developer with hands-on experience in building RESTful APIs using Spring Boot.
+Skilled in backend architecture, database design, and secure authentication mechanisms.
+Currently developing DevOps knowledge with Docker and CI/CD pipelines.
 
-🛠 Tech Stack
-- Java, OOP, Collections, Multithreading
-- Spring Boot, Spring Security, JWT
-- REST API, Microservices basics
-- MySQL, Hibernate, JPA
-- Docker, GitHub Actions
-- Linux basics
+## 🛠 Tech Stack
 
-📂 Featured Projects
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT Authentication
 
-🛠️ Complaint Management System
+**Database**
+- MySQL
+- Hibernate
+- JPA
 
-Spring Boot–based backend system for managing user complaints with role-based access, complaint tracking, and admin resolution workflow.
+**DevOps & Tools**
+- Docker
+- GitHub Actions
+- Git
+- Linux Basics
 
-🛒 E-Commerce Backend System
+---
 
-Backend application for an e-commerce platform supporting product management, user handling, and order processing through RESTful APIs.
+## 📂 Featured Projects
 
-📦 Inventory Management System
+- 🛠️ **[Complaint Management System](https://github.com/ankan9564/Complaint_Management_System)**  
+  Backend system for managing and tracking complaints with role-based access and RESTful architecture.
 
-RESTful inventory management API designed to manage stock levels with CRUD operations, validation, and centralized exception handling.
+- 🛒 **[E-Commerce Backend System](https://github.com/ankan9564/Ecomerce_Project)**  
+  REST-based backend application supporting product, order, and user management functionalities.
 
-📈 Currently Learning
-- Kubernetes
-- AWS (EC2, S3)
-- System Design basics
+- 📦 **[Inventory Management System](https://github.com/ankan9564/inventory)**  
+  Inventory management API with CRUD operations, validation, and centralized exception handling.
 
-📫 Contact
-- LinkedIn: https://www.linkedin.com/in/ankan-mondal-7a2876313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+---
+
+## 📈 Currently Learning
+
+- Microservices Architecture
+- Docker Compose
+- GitHub Actions CI/CD
+- AWS Fundamentals
+
+---
+
+## 📫 Contact
+
 - Email: ankanmondal43@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ankan-mondal-7a2876313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+
+⭐ Open to backend developer opportunities and continuous learning.
