@@ -55,5 +55,5 @@ Currently developing DevOps knowledge with Docker and CI/CD pipelines.
 
 ---
 https://chatgpt.com/share/69841d56-7a00-8003-9b2c-1f192d14f509
-
+https://drive.google.com/drive/u/0/mobile/folders/1JT7UQ-3nY1sUSVUBYs2oTEDYhtYjwFbl
 ⭐ Open to backend developer opportunities and continuous learning.
