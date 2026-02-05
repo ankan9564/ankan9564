@@ -54,5 +54,6 @@ Currently developing DevOps knowledge with Docker and CI/CD pipelines.
 - LinkedIn: https://www.linkedin.com/in/ankan-mondal-7a2876313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
+https://chatgpt.com/share/69841d56-7a00-8003-9b2c-1f192d14f509
 
 ⭐ Open to backend developer opportunities and continuous learning.
